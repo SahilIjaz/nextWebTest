@@ -1,7 +1,7 @@
 // API Configuration for Frontend Integration
 // Place this file in the frontend project directory
 
-const API_BASE_URL = 'https://btms-backend.onrender.com/api';
+const API_BASE_URL = 'https://nextwebtest.onrender.com/api';
 
 // ===== API SERVICE CLASS =====
 class BTMSApiService {
